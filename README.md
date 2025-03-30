@@ -1,0 +1,1 @@
+The Random Joke Generator is a fun and interactive web application that fetches and displays a random joke at the click of a button. It utilizes the Fetch API to retrieve jokes from an external API and updates the UI dynamically. This project demonstrates the use of asynchronous JavaScript, API handling, and DOM manipulation.
